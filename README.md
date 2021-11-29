@@ -1,6 +1,3 @@
-# Web-Technologies
-
-This repositry is of practice projects/codes for my Course in University.
 
 
                           --------------------------------MERN STACK DEVELOPMENT--------------------------------
@@ -32,3 +29,4 @@ This repositry is of practice projects/codes for my Course in University.
                 v. EJS Framework - Embedded JavaScript
                vi. BootStrap
                vii. ReactJs
+               
